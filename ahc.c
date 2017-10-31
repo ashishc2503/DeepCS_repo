@@ -4,6 +4,4 @@ main()
 	printf("Hello!");
 }
 
-:wq
-
 
